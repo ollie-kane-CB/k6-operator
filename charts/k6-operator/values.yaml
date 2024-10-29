@@ -61,7 +61,7 @@ affinity: {}
 # type: object
 # @schema
 # tolerations -- Tolerations to be applied on all containers
-tolerations: {}
+tolerations: []
 
 # installCRDs -- Installs CRDs as part of the release
 installCRDs: true
